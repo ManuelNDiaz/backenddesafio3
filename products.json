@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Producto actualizado",
+    "description": "Descripción del producto actualizada",
+    "price": 9500,
+    "thumbnail": "imagenactualizada.jpg",
+    "code": "codigo actualizado",
+    "stock": 23,
+    "id": 1
+  },
+  {
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "price": 7350,
+    "thumbnail": "imagendelproducto2.jpg",
+    "code": "Codigoproducto2",
+    "stock": 0,
+    "id": 3
+  },
+  {
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "price": 10000,
+    "thumbnail": "imagendelproducto.jpg",
+    "code": "codigoproducto1",
+    "stock": 37,
+    "id": 3
+  },
+  {
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "price": 7350,
+    "thumbnail": "imagendelproducto2.jpg",
+    "code": "Codigoproducto2",
+    "stock": 0,
+    "id": 4
+  }
+]
